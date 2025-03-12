@@ -1,5 +1,5 @@
 <h1 align="center">hey stalker 👀, I'm yashas</h1>
-<h3 align="center">I'm an engineer, and no, i am quite happy about it. This is my dev work, or atleast most of it.</h3>
+<h3 align="center">I'm an engineer, i am quite happy about it. This is my dev work, or atleast most of it.</h3>
 
 - 🔭 I’m currently engineering **@Talview**
 
