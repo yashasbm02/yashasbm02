@@ -1,5 +1,5 @@
-<h1 align="center">hey stalker 👀, I'm yashas</h1>
-<h3 align="center">I'm an engineer, i am quite happy about it. This is my dev work, or atleast most of it.</h3>
+
+<h3 align="center">I'm an engineer. This is my dev work.</h3>
 
 - 🔭 I’m currently engineering **@Talview**
 
@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **yashas105@gmail.com**
 
-- ⚡ Fun fact **I am funny(you're unfunny if you think otherwise.)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
